@@ -36,7 +36,7 @@ Creating Structs: I learned about structs in Solidity, which are used to define 
 
 Creating an Array of Structs: I learned how to create an array of structs, which allows me to store multiple instances of the same struct type in a single array.
 
-Array.push(): I learned about the .push() function in Solidity, which is used to add a new element to the end of an array.
+Array.push(): I learned about the `.push()` function in Solidity, which is used to add a new element to the end of an array.
 
 Private/Public Functions: Finally, I learned about private and public functions in Solidity. Private functions can only be called within the contract that defines them, while public functions can be called from outside the contract.
 
@@ -55,3 +55,19 @@ Typecasting: I learned about typecasting in Solidity, which is the process of co
 Events: I also learned about events in Solidity, which are used to emit signals from a contract. I learned how to define and emit events in Solidity.
 
 Web3.js: Finally, I learned about Web3.js, a JavaScript library that allows me to interact with the Ethereum blockchain and Solidity contracts from a web application. I learned how to use Web3.js to send transactions and read data from a Solidity contract.
+
+## Day 5
+### April 07, 2023
+Today in my journey towards learning Solidity and Web3.0 development, I focused on learning several important concepts in Solidity. Here's a summary of what I learned:
+
+Mappings: I learned about mappings in Solidity, which are used to create key-value pairs. I learned how to create and use mappings to store and retrieve data in a Solidity contract.
+
+Addresses: I also learned about addresses in Solidity, which represent the location of a contract or a user on the blockchain. I learned how to declare and use address variables in Solidity.
+
+msg.sender: I learned about the `msg.sender` variable in Solidity, which represents the address of the user or contract that called the current function. I learned how to use `msg.sender` to enforce access control in Solidity contracts.
+
+Require: I also learned about the `require` statement in Solidity, which is used to enforce certain conditions that must be true for a function to execute successfully. I learned how to use `require` to add additional checks to a Solidity contract.
+
+Inheritance: I learned about inheritance in Solidity, which is a mechanism that allows a contract to inherit properties and functions from another contract. I learned how to use inheritance to create more modular and reusable Solidity contracts.
+
+Import: Finally, I learned about the `import` statement in Solidity, which is used to include code from other Solidity files. I learned how to use `import` to organize my Solidity code into multiple files and make it more readable and maintainable.
