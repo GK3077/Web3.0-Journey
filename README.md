@@ -3,6 +3,7 @@ This repository let's people know Where I stand in road and my progress in the j
 
 ## Day 1
 ### May 01, 2023
+
 I started my journey towards learning Solidity and Web3.0 development by covering the basics of Solidity. Here's a summary of what I learned:
 
 Pragma: I learned about the pragma statement in Solidity, which is used to specify the version of Solidity that the contract is written in.
@@ -29,4 +30,15 @@ Creating New Structs: I learned how to create new structs in Solidity and how to
 
 Creating an Array of Structs: Finally, I learned how to create an array of structs in Solidity and how to assign values to the properties of the structs in the array.
 
+## Day 2
+### May 02, 2023
 
+Today in my journey towards learning Solidity and Web3.0 development, I learned about some more advanced topics. Here's a summary of what I covered:
+
+Private/Public Functions: I learned about private and public functions in Solidity and how they differ in terms of access control.
+
+Return Values: I learned how to use return values in Solidity to return data from a function call.
+
+Function Modifiers: I learned about function modifiers in Solidity and how they can be used to add additional functionality to a function.
+
+Keccak256: I learned about the keccak256 hash function in Solidity, which is used to generate a unique hash value based on an input.
